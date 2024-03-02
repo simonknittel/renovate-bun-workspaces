@@ -1,0 +1,6 @@
+{
+  "name": "renovate-bun-workspaces",
+  "workspaces": [
+    "packages/*"
+  ]
+}
